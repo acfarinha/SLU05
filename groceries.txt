@@ -5,4 +5,9 @@
 - oranges
 - peanuts
 - olive oil
+<<<<<<< HEAD
 
+=======
+- butter
+- eggs
+>>>>>>> 5e4b52cc9f01cd96831c7e9ec412dd366c7ace2e
